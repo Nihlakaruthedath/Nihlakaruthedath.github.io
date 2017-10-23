@@ -3,7 +3,7 @@
 
 
 
-  <font color=#0000FF> Academical Detailes</font>
+   #Academical Detailes</font>
   
   B.Tech in CSE from MESCE, Kuttippuram
   (CGPA: 7.34)
