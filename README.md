@@ -1,2 +1,2 @@
  # NIHLA KARUTHEDATH       
- [Touch here](http://nihlakaruthedath.github.io/intro.md)
+ [Touch here](http://nihlakaruthedath.github.io/intro)
