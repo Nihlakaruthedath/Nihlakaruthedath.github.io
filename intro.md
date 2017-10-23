@@ -3,7 +3,7 @@ I am NIHLA KARUTHEDATH. I am currently pursuing a degree in B.tech Computer scie
 
 # Academical Detailes
   <br>
-                EDUCATIONAL QUALIFICATION
+  <center>   EDUCATIONAL QUALIFICATION
    </br> 
   B.Tech in CSE from MESCE, Kuttippuram
   (CGPA: 7.34)
