@@ -10,6 +10,5 @@ I am NIHLA KARUTHEDATH. I am currently pursuing a degree in B.tech Computer scie
   <br>
   12th from  Government BOYS Higher Secondary School,Manjeri(Completed securing 86% in Biology Science)
   </br>
-  <br>
   10th from Seethi Haagi     Memorial Government vocational Higher Secondary School,Edavanna(Completed securing 99%)
-  </br>  
+ 
