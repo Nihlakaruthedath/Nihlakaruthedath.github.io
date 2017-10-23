@@ -8,6 +8,8 @@ I am NIHLA KARUTHEDATH. I am currently pursuing a degree in B.tech Computer scie
   B.Tech in CSE from MESCE, Kuttippuram
   (CGPA: 7.34)
   <br>
-  12th from  Government BOYS Higher Secondary School,Manjeri(Completed securing 86% in Biology Science)</br>
+  12th from  Government BOYS Higher Secondary School,Manjeri(Completed securing 86% in Biology Science)
+  </br>
   <br>
-  10th from Seethi Haagi     Memorial Government vocational Higher Secondary School,Edavanna(Completed securing 99%)</br>  
+  10th from Seethi Haagi     Memorial Government vocational Higher Secondary School,Edavanna(Completed securing 99%)
+  </br>  
